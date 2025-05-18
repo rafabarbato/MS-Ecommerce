@@ -1,6 +1,6 @@
 # ms-ecommerce
 
-## 🇧🇷 Como executar
+## Como executar
 
 1. Instale Node.js e Docker Desktop.
 2. Clone o repositório e acesse a pasta.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🇺🇸 How to run
+## How to run
 
 1. Install Node.js and Docker Desktop.
 2. Clone the repository and enter the project folder.
